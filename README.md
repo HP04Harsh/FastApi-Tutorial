@@ -21,5 +21,5 @@ It is based on:
 
 ---
 
-## Enjou the Learning. 
+## Enjoy the Learning. 
 # Author - Harsh Pardhi
